@@ -1,0 +1,3 @@
+displayName = One Last Kiss
+author = You
+version = 0.1

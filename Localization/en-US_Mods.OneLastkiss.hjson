@@ -1,0 +1,23 @@
+Items: {
+	ZhongLi: {
+		Tooltip: ""
+		DisplayName: Zhong Li
+	}
+
+	Dadalia: {
+		DisplayName: Dadalia
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	ZhongLiProj.DisplayName: Zhong Li Proj
+	LoadProj.DisplayName: Load Proj
+	DadaliaRangedProjct.DisplayName: Dadalia Ranged Projct
+	DadaliaMainProjct.DisplayName: Dadalia Main Projct
+}
+
+Keybinds: {
+	元素战技.DisplayName: 元素战技
+	元素爆发.DisplayName: 元素爆发
+}
